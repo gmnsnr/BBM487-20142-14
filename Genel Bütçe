@@ -1,0 +1,87 @@
+1.Hafta
+
+girdi
++100000
+
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Test uzmanı       ->4000
+--------------------------->34000
+
+net:  100000-34000=66000
+
+----------------------------------------------------------------------
+2.Hafta(erken teslim sayesinde maaş ödenmedi)
+
+girdi
++66000(önceki haftadan devir)
++65000(erken teslim ücreti)
+
+çıktı
+-----
+
+net:66000+65000=131000
+
+----------------------------------------------------------------------
+
+3.hafta
+
+girdi
++131000(önceki haftadan devir)
++8000(Yazılım Test Uzmanımız Ecehan SAVAŞ 13.grup tarafından transfer edildi 05/03/2015)
+
+çıktı
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->30000
+
+net:131000+8000-30000=109000
+
+----------------------------------------------------------------------
+
+4.hafta
+
+girdi
++109000(önceki haftadan devir)
++8000(Yazılım Geliştirme Uzmanımız Funda AKYOL 5. grup tarafından transfer edildi 11/03/2015)
+
+çıktı 
+-8000(Mehmed Can DEMİRELi Yazılım Test Uzmanı olarak 17. gruptan transfer ettik.)
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->38000
+
+net:109000+8000-38000=79000
+
+----------------------------------------------------------------------
+
+5.hafta
+
+girdi
++79000(önceki haftadan devir)
++50000(proje planı teslimi)
+
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->30000
+
+net:79000+50000-30000=99000
+
+
+
+
+
