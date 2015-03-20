@@ -1,13 +1,8 @@
 # BBM487-20142-14
 Yazılım Mühendisliği Laboratuvarı 14. grup
-
-Egemen ŞENER         (Proje Yöneticisi)
-
-Murat AYBEY          (Tasarımcı)
-
-Burak Enes BEYGO     (Yazılım Geliştirme Uzmanı)
-
-Mehmed Can DEMİREL   (Yazılım Test Uzmanı)
-
-Göksel UÇAR          (Analist)
+Egemen ŞENER         20826559   (Proje Yöneticisi)
+Murat AYBEY          21076906   (Tasarımcı)
+Mehmed Can DEMİREL   21026892   (Yazılım Test Uzmanı)
+Burak Enes BEYGO     21127022   (Yazılım Geliştirme Uzmanı)
+Göksel UÇAR          21127735   (Analist)
 
