@@ -1,5 +1,7 @@
 # BBM487-20142-14
+
 Yazılım Mühendisliği Laboratuvarı 14. grup
+
 Egemen ŞENER         20826559   (Proje Yöneticisi)
 
 Murat AYBEY          21076906   (Tasarımcı)
