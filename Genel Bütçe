@@ -81,6 +81,23 @@ Yazılım Geliştirme uzmanı ->4000
 
 net:79000+50000-30000=99000
 
+----------------------------------------------------------------------
+
+6.hafta
+
+girdi
++99000(önceki haftadan devir)
++9000(kasa faizi)
+
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->30000
+
+net:99000+9000-30000=78000
 
 
 
