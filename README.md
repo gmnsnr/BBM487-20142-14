@@ -9,5 +9,7 @@ Mehmed Can DEMİREL   21026892   (Yazılım Test Uzmanı)
 
 Burak Enes BEYGO     21127022   (Yazılım Geliştirme Uzmanı)
 
+Dursun Eren BETUZ    21127017   (Yazılım Geliştirme Uzmanı)
+
 Göksel UÇAR          21127735   (Analist)
 
