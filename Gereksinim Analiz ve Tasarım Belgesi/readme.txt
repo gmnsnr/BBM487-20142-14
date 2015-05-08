@@ -1,0 +1,1 @@
+diagramlar(xml's) https://www.draw.io/ sitesinden çizilmiþtir
