@@ -191,6 +191,26 @@ Yazılım Geliştirme uzmanı ->4000
 net:83000+8000-30000=61000
 
 
+----------------------------------------------------------------------
+
+12.hafta
+
+girdi
++61000(önceki haftadan devir)
++6000(kasa faizi)
+-4000   17.(en son oluşturulan grup) gruptan Yazılım Geliştirme uzmanı transfer edildi.
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->30000
+
+net:61000+6000-4000-34000=29000
+
+
 
 
 
