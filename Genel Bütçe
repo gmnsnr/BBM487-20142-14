@@ -190,7 +190,6 @@ Yazılım Geliştirme uzmanı ->4000
 
 net:83000+8000-30000=61000
 
-
 ----------------------------------------------------------------------
 
 12.hafta
@@ -211,8 +210,23 @@ Yazılım Geliştirme uzmanı ->4000
 
 net:100000+61000+6000-4000-34000=129000
 
+----------------------------------------------------------------------
 
+13.hafta
 
+girdi
++129000(önceki haftadan devir)
++12000(kasa faizi)
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->30000
+
+net:129000+12000-34000=107000
 
  
 
