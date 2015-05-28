@@ -207,7 +207,7 @@ Tasarımcı                 ->6000
 Yazılım Test uzmanı       ->4000
 Yazılım Geliştirme uzmanı ->4000
 Yazılım Geliştirme uzmanı ->4000
---------------------------->30000
+--------------------------->34000
 
 net:100000+61000+6000-4000-34000=129000
 
@@ -225,9 +225,28 @@ Tasarımcı                 ->6000
 Yazılım Test uzmanı       ->4000
 Yazılım Geliştirme uzmanı ->4000
 Yazılım Geliştirme uzmanı ->4000
---------------------------->30000
+--------------------------->34000
 
 net:129000+12000-34000=107000
+
+----------------------------------------------------------------------
+
+14.hafta
+
+girdi
++107000(önceki haftadan devir)
++10000(kasa faizi)
+çıktı 
+Proje Yöneticisi          ->10000
+Sistem Analisti           ->6000
+Tasarımcı                 ->6000
+Yazılım Test uzmanı       ->4000
+Yazılım Geliştirme uzmanı ->4000
+Yazılım Geliştirme uzmanı ->4000
+--------------------------->34000
+
+net:129000+12000+100000-34000=207000
+Proje bütçe kapanış:207000
 
  
 
